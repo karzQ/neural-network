@@ -11,6 +11,7 @@
 Le but du projet était de metttre en place plusieurs modèle de réseaux neuronaux afin de faire une comparaison d'image sur un Dataset spéficique, et ainsi entraîner au mieu nos modèles.
 
 Les modèles pré-conçus que nous avons utilisés sont les suivants :
+* Un modèle custom from-scratch
 * InceptionV3
 * VGG16
 * MobileNet
